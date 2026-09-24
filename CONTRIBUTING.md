@@ -1,31 +1,38 @@
 # Contributing to RAAL
 
-Thanks for helping improve RAAL.
+## Before Contributing
 
-## Development workflow
-1. Create a focused branch.
-2. Keep changes small and scoped.
-3. Update docs when behavior changes.
-4. Add or update tests for logic changes.
-5. Run local checks before opening/reviewing a PR.
+Read:
 
-## Local checks
-```bash
-python -m unittest discover -s tests -p "test_*.py"
-python -m compileall src tests
-```
+1. `README.md`
+2. `docs/RAAL_AUTONOMOUS_CIVILIZATION_WHITEPAPER.md`
+3. `architecture/ARCHITECTURE.md`
+4. `governance/GOVERNANCE.md`
+5. `SECURITY.md`
 
-## Documentation-first rule
-Before major feature work, document:
-- the problem statement,
-- component boundaries,
-- safety implications,
-- test strategy.
+## Contribution Principles
 
-## Safety and scope
-Contributions must preserve current RAAL safety boundaries unless a deliberately reviewed design change is approved. See [docs/safety.md](docs/safety.md).
+- Keep architectural contracts explicit.
+- Preserve auditability.
+- Do not silently change governance boundaries.
+- Separate implementation from architectural claims.
+- Add tests for behavioral changes.
+- Document new capabilities and their verification status.
+- Preserve backward compatibility where practical.
+- Record breaking changes clearly.
 
-## Coding expectations
-- Python 3.11+
-- Keep dependencies minimal and standard-library-first.
-- Prefer explicit, typed, deterministic behavior in core components.
+## Pull Requests
+
+A pull request should explain:
+
+- what changed
+- why it changed
+- affected components
+- security/governance impact
+- tests performed
+- rollback considerations
+- documentation updates
+
+## Autonomous Changes
+
+Changes generated or proposed by RAAL must pass the same repository review and governance requirements as human-authored changes.
