@@ -1,6 +1,6 @@
 # RAAL — Reeaz Agentic Autonomy Life
 
-**Canonical version:** 7.0.0  
+**Canonical version:** 7.0.0
 **Document:** V7 Whitepaper
 
 > A governed autonomous AI civilization: distributed agents, persistent memory, communication, cognition, tools, resilience, governance, and controlled evolution.

@@ -1,6 +1,6 @@
 # RAAL V7 Consolidation Ledger
 
-**Canonical version:** 7.0.0  
+**Canonical version:** 7.0.0
 **Purpose:** Record the source, status, and precedence of the V7 canonical document set.
 
 ## Source and provenance
