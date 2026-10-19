@@ -2,7 +2,8 @@
 
 ## Primary Documents
 
-- [Autonomous Civilization Whitepaper](RAAL_AUTONOMOUS_CIVILIZATION_WHITEPAPER.md)
+- [RAAL V7.0.0 Whitepaper](../RAAL_WHITEPAPER_V7.md)
+- [RAAL V7 Consolidation Ledger](../RAAL_V7_CONSOLIDATION_LEDGER.md)
 
 ## Architecture
 
