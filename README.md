@@ -1,5 +1,7 @@
 # RAAL — Reeaz Agentic Autonomy Life
 
+**Canonical version: 7.0.0**
+
 > **A governed autonomous AI civilization: distributed agents, persistent memory, communication, cognition, tools, resilience, governance, and controlled evolution.**
 
 RAAL is a vision and architecture for moving beyond the single-assistant model toward a distributed computational organism.
@@ -89,7 +91,8 @@ RAAL/
 
 ## Documentation
 
-- [Autonomous Civilization Whitepaper](docs/RAAL_AUTONOMOUS_CIVILIZATION_WHITEPAPER.md)
+- [RAAL V7.0.0 Whitepaper](RAAL_WHITEPAPER_V7.md)
+- [RAAL V7 Consolidation Ledger](RAAL_V7_CONSOLIDATION_LEDGER.md)
 - [Architecture](architecture/ARCHITECTURE.md)
 - [Governance](governance/GOVERNANCE.md)
 - [Security](SECURITY.md)

@@ -5,10 +5,11 @@
 Read:
 
 1. `README.md`
-2. `docs/RAAL_AUTONOMOUS_CIVILIZATION_WHITEPAPER.md`
-3. `architecture/ARCHITECTURE.md`
-4. `governance/GOVERNANCE.md`
-5. `SECURITY.md`
+2. `RAAL_WHITEPAPER_V7.md`
+3. `RAAL_V7_CONSOLIDATION_LEDGER.md`
+4. `architecture/ARCHITECTURE.md`
+5. `governance/GOVERNANCE.md`
+6. `SECURITY.md`
 
 ## Contribution Principles
 
